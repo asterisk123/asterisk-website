@@ -199,11 +199,12 @@ header {
     column-gap: 30px;
     padding-top: 20px;
     justify-content: center;
-    color: #7F4AA4;
 }
 
 .social-link i {
     font-size: 40px;
+    color: #D7CCFF;
+
 }
 
 #contact-section form {
